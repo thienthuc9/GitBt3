@@ -5,3 +5,4 @@ var functionMain = function(){
 var functionMain1 = function(){
     console.log('doneBaiTapBuoi2');
 }
+//done
